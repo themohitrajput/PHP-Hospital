@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    margin: 25px;
+    border: 2px solid red;
+    text-align: center;
+    width: 70%;
+}
+.form-group{
+    margin: 10px;
+}
+.form-group input{
+    width: 60%;
+    padding: 5px;
+}
+.btn-primary{
+    padding: 5px;
+    color: white;
+    background-color: rgb(16, 127, 247);
+    border: none;
+    border-radius: 2px;
+}
